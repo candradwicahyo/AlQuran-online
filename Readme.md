@@ -7,7 +7,7 @@ sebuah program dengan nama AlQuran Online yang dibuat dengan bahasa pemrograman 
 * HTML
 * CSS 
   * [Bootstrap](https://getbootstrap.com)
-* Javascriot
+* Javascript
 
 ### lainnya 
 
